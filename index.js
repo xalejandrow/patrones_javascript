@@ -1,6 +1,6 @@
 class MiClase {
     constructor(){
-        this.propiedad = 1
+        this.propiedad = 1;
         this.metodo = () => {
     
         }
