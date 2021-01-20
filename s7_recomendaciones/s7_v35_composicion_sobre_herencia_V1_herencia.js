@@ -33,5 +33,4 @@ class Robot {
     }
 
     despedir() { despedir() }
-    
 }
